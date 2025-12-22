@@ -1,4 +1,10 @@
 ## Hi there 👋
+I am Adil Reyaz, a Computer Science Major Student.
+My Tech stacks is  PYTHON,HTML,CSS,JAVASCRIPT.
+
+I am a Curious Learner!
+
+
 
 <!--
 **ARRAEYY/ARRAEYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
