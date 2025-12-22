@@ -1,6 +1,10 @@
 ## Hi there 👋
+
+
 I am Adil Reyaz, a Computer Science Major Student.
-My Tech stacks is  PYTHON,HTML,CSS,JAVASCRIPT.
+
+My Tech stack is  PYTHON,HTML,CSS,JAVASCRIPT.
+
 
 I am a Curious Learner!
 
